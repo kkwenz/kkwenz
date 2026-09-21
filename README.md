@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Wen Zhang.
 
-[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat)]()  [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_foUdjYAAAAJ&hl=en)
+[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat)](https://kkwenz.github.io/)  [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_foUdjYAAAAJ&hl=en)
 
 I am a first-year Ph.D. student in ECE at Johns Hopkins University, advised by Prof. Vishal Patel. I am also a Research Intern at Stony Brook University, working with Prof. Chenyu You.
 
